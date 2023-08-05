@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Websites%20클론&fontSize=45&animation=fadeIn&fontAlignY=38&desc=FrontEnd16&descAlignY=55&descAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Websites%20-%20Clone&fontSize=45&animation=fadeIn&fontAlignY=38&desc=FrontEnd16&descAlignY=55&descAlign=85)
 
 |사이트 이미지|링크 및 기술스택|
 |----------|------------|
