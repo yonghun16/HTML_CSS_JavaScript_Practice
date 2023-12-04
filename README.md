@@ -60,3 +60,7 @@
 |<img src="https://raw.githubusercontent.com/yonghun16/architect_studio_ui/main/design.png" width=825px />|
 |<ul><li><a href="https://yonghun16.github.io/architect_studio_ui/"> "건축 설계 사무소 APP UI" clone</a></li><li>Single-page</li><li><a href="https://github.com/yonghun16/architect_studio_ui/"> Github </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-636CFF?style=flat&logo=Vite&logoColor=white" /></a> </li></ul>|
 
+| Pixies Poster |
+|----------------------|
+|<img src="https://github.com/yonghun16/pixies_poster/blob/main/design.jpeg" width=450px />|
+|<ul><li><a href="https://yonghun16.github.io/pixies_poster/"> Pixies Poster</a></li><li>Single-page</li><li><a href="https://github.com/yonghun16/pixies_poster/"> Github </a></li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-636CFF?style=flat&logo=Vite&logoColor=white" /></a> </li></ul>|
