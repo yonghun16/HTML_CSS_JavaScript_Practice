@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=HTML,%20CSS,%20JavaScript%20연습&fontSize=45&animation=fadeIn&fontAlignY=38&desc=frontend16&descAlignY=55&descAlign=85)
 
+| apple.com/ipad-10.2 |
+|-----------------------|
+|<img src="https://raw.githubusercontent.com/yonghun16/apple-ipad-app/main/ipad.jpg" width=825px />|
+|<ul><li>["www.apple.com/ipad-10.2" website clone](https://yonghun16.github.io/apple-iapd-app)</li><li>Single-page</li><li>[Github](https://github.com/yonghun16/apple-ipad-app)</li><li> <!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
+
 | starbucks.co.kr |
 |-----------------------|
 |<img src="https://raw.githubusercontent.com/yonghun16/starbucks_clone/main/main_img.png" width=825px />|
