@@ -33,12 +33,12 @@
 | 모멘텀 클론 |
 |----------------------|
 |<img src="https://github.com/yonghun16/momentum/raw/main/fontpage.png" width=825px />|
-|<ul><li><a href="https://yonghun16.github.io/momentum/"> 모멘텀 클론 </a></li><li><a href="https://github.com/yonghun16/momentum"> Github </a></li><li><!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
+|<ul><li><a href="https://yonghun16.github.io/momentum/"> 모멘텀 클론 </a></li><li>Single-page</li><li><a href="https://github.com/yonghun16/momentum"> Github </a></li><li><!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
 
 | 밈 메이커(그림판) |
 |----------------------|
 |<img src="https://raw.githubusercontent.com/yonghun16/meme-maker/main/frontpage.png" width=825px />|
-|<ul><li><a href="https://yonghun16.github.io/meme-maker/"> 밈 메이커(그림판) </a></li><li><a href="https://github.com/yonghun16/meme-maker"> Github </a></li><li><!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
+|<ul><li><a href="https://yonghun16.github.io/meme-maker/"> 밈 메이커(그림판) </a></li><li>Single-page</li><li><a href="https://github.com/yonghun16/meme-maker"> Github </a></li><li><!-- HTML --><a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <!-- CSS --><a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
 
 | 오버워치 영웅 선택 UI |
 |----------------------|
